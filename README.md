@@ -16,37 +16,16 @@
 
 ## `01` — About Me
 
-```python
-class AvinashShelukar:
-    def __init__(self):
-        self.education = "M.Tech CSE @ WCE Sangli"
-        self.undergrad = "B.Tech CSE @ MIT-WPU Pune"
-        self.interests = [
-            "Software Development",
-            "Full-Stack & Backend Engineering",
-            "AI / ML & Explainable AI",
-            "Retrieval-Augmented Generation"
-        ]
-        self.current_focus = [
-            "Building practical AI applications",
-            "Writing clean, maintainable code",
-            "Exploring open-source projects"
-        ]
+Hi! I'm **Avinash Shelukar**, an M.Tech Computer Science and Engineering student at **Walchand College of Engineering (WCE), Sangli**, with a B.Tech background from MIT World Peace University, Pune.
 
-    def mindset(self):
-        return "Stay curious. Ship useful software."
-```
+I'm passionate about building practical software solutions, developing scalable web applications, and exploring AI-powered technologies.
 
-I'm a Computer Science engineer pursuing my M.Tech at Walchand College of Engineering, Sangli, with an undergraduate background from MIT World Peace University, Pune.
+- 💻 **Interests:** Software Development, Full-Stack Engineering, and Backend Systems
+- 🤖 **Exploring:** AI/ML, Explainable AI, and Retrieval-Augmented Generation (RAG)
+- 🛠️ **Focus:** Clean code, problem-solving, and building useful projects
+- 🤝 **Open to:** Open-source contributions, collaborations, and relevant SDE opportunities
 
-I enjoy developing practical applications, building scalable web solutions, exploring AI-powered systems, and writing efficient, maintainable code.
-
-- **Currently exploring:** Backend engineering, full-stack development, local LLM applications, and Explainable AI.
-- **Interested in:** Software Development Engineer (SDE) roles and meaningful open-source contributions.
-- **My approach:** Learn by building, improve through feedback, and focus on clean code.
-- **Open to:** Connecting with developers, collaborating on projects, and exploring relevant opportunities.
-
----
+**My mindset:** Stay curious. Build consistently. Keep improving.
 
 ## `02` — Tech Stack
 
