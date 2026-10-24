@@ -27,7 +27,7 @@ I'm passionate about building practical software solutions, developing scalable 
 
 **My mindset:** Stay curious. Build consistently. Keep improving.
 
-## `02` — Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -125,7 +125,7 @@ I'm passionate about building practical software solutions, developing scalable 
 
 ---
 
-## `06` — Let's Connect
+## Let's Connect
 
 <div align="center">
 
