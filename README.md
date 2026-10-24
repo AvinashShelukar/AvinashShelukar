@@ -14,7 +14,7 @@
 
 ---
 
-## `01` — About Me
+## About Me
 
 Hi! I'm **Avinash Shelukar**, an M.Tech Computer Science and Engineering student at **Walchand College of Engineering (WCE), Sangli**, with a B.Tech background from MIT World Peace University, Pune.
 
@@ -61,7 +61,7 @@ I'm passionate about building practical software solutions, developing scalable 
 
 ---
 
-## `03` — Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -86,30 +86,23 @@ I'm passionate about building practical software solutions, developing scalable 
 
 ---
 
-## `04` — GitHub Analytics
+
+##  GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/AvinashShelukar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AvinashShelukar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Avinash's%20GitHub%20Overview" alt="GitHub Overview" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvinashShelukar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Overview" />
 </a>
 <a href="https://github.com/AvinashShelukar">
-  <img height="180" src="https://streak-stats.demolab.com?user=AvinashShelukar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AvinashShelukar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashShelukar&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Programming Languages" />
-
-<br/>
-
 ### ⚡ Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashShelukar&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="GitHub Contribution Timeline" />
-
-### 🏆 Contribution Highlights
-
-<img src="https://github-profile-trophy.vercel.app/?username=AvinashShelukar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Profile Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashShelukar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
 
 <br/>
 
@@ -119,12 +112,11 @@ I'm passionate about building practical software solutions, developing scalable 
 
 <br/><br/>
 
-*Consistency over intensity. Every commit is a step forward.*
+<em>Consistency over intensity. Every commit is a step forward.</em>
 
 </div>
 
-
-## `05` — Beyond the Code
+## Beyond the Code
 
 - 🧠 Exploring new approaches to software engineering and AI.
 - 🛠️ Building projects that connect theory with practical applications.
