@@ -91,23 +91,38 @@ I'm passionate about building practical software solutions, developing scalable 
 <div align="center">
 
 <a href="https://github.com/AvinashShelukar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AvinashShelukar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AvinashShelukar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Avinash's%20GitHub%20Overview" alt="GitHub Overview" />
 </a>
 <a href="https://github.com/AvinashShelukar">
-  <img height="180" src="https://streak-stats.demolab.com?user=AvinashShelukar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=AvinashShelukar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" />
 </a>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashShelukar&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Programming Languages" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashShelukar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
+### ⚡ Contribution Activity
 
-### Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashShelukar&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="GitHub Contribution Timeline" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashShelukar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+### 🏆 Contribution Highlights
+
+<img src="https://github-profile-trophy.vercel.app/?username=AvinashShelukar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Profile Trophies" />
+
+<br/>
+
+<a href="https://github.com/AvinashShelukar?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-38bdae?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<br/><br/>
+
+*Consistency over intensity. Every commit is a step forward.*
 
 </div>
 
----
 
 ## `05` — Beyond the Code
 
