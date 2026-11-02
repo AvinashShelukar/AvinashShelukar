@@ -1,115 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,40:0f172a,100:164e63&text=AVINASH%20SHELUKAR&fontColor=67e8f9&fontSize=48&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%20%26%20Full-Stack&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Avinash Shelukar - Software Engineering, AI and Full-Stack" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,40:0f172a,100:164e63&text=AVINASH%20SHELUKAR&fontColor=67e8f9&fontSize=46&fontAlignY=42&desc=ML%20%26%20Full-Stack%20Software%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Avinash Shelukar - ML and Full-Stack Software Engineer" />
 
 <a href="https://www.linkedin.com/in/avinash-shelukar-05b01b246/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/AvinashShelukar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-
-### Building useful things. Solving real problems.
+<a href="https://github.com/AvinashShelukar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 
 </div>
 
 ---
 
-## About Me
+## Who I am
 
-Hi! I'm **Avinash Shelukar**, a final-year M.Tech Computer Science and Engineering student at **Walchand College of Engineering (WCE), Sangli**, with a B.Tech from MIT World Peace University, Pune.
+Final-year M.Tech (Computer Science and Engineering) student at **Walchand College of Engineering, Sangli**. B.Tech from MIT World Peace University, Pune.
 
-I build web applications and machine learning projects, and I have completed a software development internship.
+I build two kinds of things:
 
-- 💻 **Skills:** Full-stack development (MERN), backend systems, REST APIs
-- 🤖 **Exploring:** Machine learning, Explainable AI, Retrieval-Augmented Generation (RAG)
-- 🔬 **Research:** Explainable AI for malware detection
-- 🤝 **Open to:** Software engineering and data/ML roles, open-source contributions, collaborations
+- **Web applications** with the MERN stack, REST APIs and databases
+- **Machine learning systems** that people can actually use, not just notebooks
+
+I have done a software development internship and I am looking for **software engineering and data/ML roles**.
 
 ---
 
-## Tech Stack
+## What I'm working on
+
+- 🔬 **Research:** Explainable AI for malware detection. The goal is to catch new and disguised malware, and to show *why* a file was flagged.
+- 🤖 **Building:** RAG tools that answer questions from your own documents, running locally
+- 🌐 **Shipping:** Full-stack apps with a working frontend, backend and database
+
+---
+
+## Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**RAGWise**](https://github.com/AvinashShelukar/RAGWise) | Answers questions from documents using retrieval and a language model | Python, FAISS, sentence-transformers |
+| [**Purchase Prediction System**](https://github.com/AvinashShelukar/purchase-prediction-system) | Web app that predicts how likely a customer is to buy | Python, scikit-learn, web app |
+| **Local PDF RAG Assistant** | Question-answering over PDFs, fully local | Embeddings, FAISS, local LLM |
+| **Explainable AI for Malware Detection** | Research on detecting malware with explainable decisions | Python, ML, XAI |
+| **IoT-Assisted Food Donation** | Sensors check food freshness and manage donations | IoT, web, analytics |
+
+<!-- TODO: add a link and one result (accuracy, users, speed) for each project without a link -->
+
+---
+
+## Tech stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php" alt="Programming languages" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,bootstrap,tailwind" alt="Frontend and backend technologies" />
-
-**Databases & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sklearn,pytorch" alt="Databases and machine learning tools" />
-
-**Cloud & Development Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma,docker" alt="Cloud and development tools" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,nodejs,express,mongodb,mysql,sklearn,pytorch,docker,aws,git" alt="Tech stack" />
 
 </div>
 
-<details>
-<summary><b>More technologies and tools</b></summary>
-
-- **AI & Data Science:** NumPy, Pandas, Matplotlib, scikit-learn, NLP, RAG, FAISS, sentence-transformers
-- **Web & Deployment:** Vite, Netlify, Vercel, Render, Apache Tomcat
-- **Design & Analytics:** Figma, Canva, Power BI, Tableau
-- **Development:** Git, GitHub, REST APIs, debugging, documentation
-
-</details>
+**Also used:** NumPy, Pandas, Matplotlib, NLP, RAG, FAISS, Vite, Netlify, Vercel, Render, Power BI, Tableau, Figma
 
 ---
 
-## Featured Projects
+## Contact
 
-<div align="center">
-
-<a href="https://github.com/AvinashShelukar/RAGWise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashShelukar&repo=RAGWise&theme=tokyonight&hide_border=true" alt="RAGWise repository card" />
-</a>
-<a href="https://github.com/AvinashShelukar/purchase-prediction-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvinashShelukar&repo=purchase-prediction-system&theme=tokyonight&hide_border=true" alt="Purchase Prediction System repository card" />
-</a>
-
-</div>
-
-### Other Projects & Research
-
-| Project | Description |
-|---|---|
-| **Local PDF RAG Assistant** | Document question-answering using embeddings, FAISS, retrieval, and a local LLM pipeline. |
-| **Explainable AI for Malware Detection** | Research into malware detection that stays robust against obfuscation and new threats, with decisions that can be explained. |
-| **IoT-Assisted Food Donation** | Sensor-based freshness monitoring, donation workflows, and analytics. |
-
-*Source code and updates are in my repositories.*
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/AvinashShelukar">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvinashShelukar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Overview" />
-</a>
-<a href="https://github.com/AvinashShelukar">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AvinashShelukar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashShelukar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/avinash-shelukar-05b01b246/"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0f172a,100:020617&height=120&section=footer" width="100%" alt="Decorative gradient footer" />
-
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-shelukar-05b01b246/)
+- 🐙 [GitHub](https://github.com/AvinashShelukar)
